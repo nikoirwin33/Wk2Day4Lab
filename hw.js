@@ -5,11 +5,33 @@
 // - If students get 55 or above: console log Not to good
 // // - Any grade lower than 55 is Bad Grade But You'll Get Em Next Time
 
+// function Grade(x){
+//     if(x >= 80){
+//         console.log("You did a good job!")
+//     }else if (x >= 70){
+//         console.log("Keep trying")
+//     }else if (x >=60){
+//         console.log("ehhhhh")
+//     }else if (x >=55){
+//         console.log("Not too good")
+//     }else if(x <= 55){
+//          console.log("Bad Grade but you'll get em next time!")
+//     }
+//     }
+    
+//     Grade(80)
 
 // 2.   Write a function that prints out multiples of 10 up to a given input (argument)
 
 
+
 // 3.   Write a function that takes bill amount and item price and says how many quarters they'd get in return
+let i = 0
+while (i < 8- bagels){
+    quarters += 5
+    i++
+}
+console.log(quarters)
 
 
 //4.    Write a function that prints out how many bills you would recieve in change after paying a certain amount.  Return in as large denominations as possible. Parameters should be amount paind and amount cost
